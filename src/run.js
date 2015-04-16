@@ -49,7 +49,7 @@
     });
 
     _.each(allDatas, function(pl, key){
-        console.log('Playlist ' + chalk.green(key) + ' has ' + chalk.green(pl.tracks.length) + ' tracks imported');
+        console.log('Playlist ' + chalk.green(pl.name) + ' has ' + chalk.green(pl.tracks.length) + ' tracks imported');
     });
 });
 
