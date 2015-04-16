@@ -1,32 +1,26 @@
 {
   "name": "playmusic",
-  "version": "1.1.1",
-  "description": "Node JS Google Play Music API.  Supports All Access",
+  "version": "1.0.0",
+  "description": "Playlists sync between Google Play Music and Spotifu",
   "keywords": [
     "gmusic",
     "gmusicapi",
     "google play",
     "play music",
-    "all access"
+    "all access",
+    "spotify"
   ],
-  "homepage": "https://www.github.com/jamon/playmusic",
+  "homepage": "https://github.com/clementlamoureux/gpm-to-spotify",
   "main": "play",
-  "bugs": {
-    "url": "https://github.com/jamon/playmusic/issues",
-    "email": "playmusic@jamonterrell.com"
-  },
   "license": "MPL-2.0",
-  "author": {
-    "name": "Jamon Terrell",
-    "email": "playmusic@jamonterrell.com",
-    "url": "https://github.com/jamon/"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamon/playmusic.git"
+    "url": "https://github.com/clementlamoureux/gpm-to-spotify.git"
   },
   "dependencies": {
     "crypto-js": ">= 3.1",
-    "node-uuid": "~1.4.1"
+    "node-uuid": "~1.4.1",
+    "lodash": "latest",
+    "chalk": "latest"
   }
 }
