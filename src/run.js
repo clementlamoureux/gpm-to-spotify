@@ -66,7 +66,7 @@ pm.init(config, function() {
                         }else{
                             OUTPUT.push('ERROR');
                         }
-                        check(OUTPUT, INPUT);
+                        check(OUTPUT, INPUT, pl);
                     }
                     );
                 }
@@ -74,7 +74,7 @@ pm.init(config, function() {
         });
 });
 
-var check = function(OUTPUT, INPUT){
+var check = function(OUTPUT, INPUT, pl){
     console.log(OUTPUT.length, INPUT);
     if(OUTPUT.length === INPUT){
         console.log(_.without(OUTPUT, 'ERROR').join(','));        
