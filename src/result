@@ -1,0 +1,1127 @@
+{
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Tove+Lo+-+Habits+%28Stay+High%29&offset=0&limit=20&type=track",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Z5O36p7BivXzkucc0PAfw",
+        "id" : "5Z5O36p7BivXzkucc0PAfw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/7e9bae0ae734885351bbf0ea571610c3d6dea9d4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/6208f8ecb93d6bd436666c42d7aea57832570518",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/1676d7633bdb51d1be5f001095ae8a2763e13cb2",
+          "width" : 64
+        } ],
+        "name" : "Queen Of The Clouds",
+        "type" : "album",
+        "uri" : "spotify:album:5Z5O36p7BivXzkucc0PAfw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dM6NDYSfLcspt8GLoT5aE",
+        "id" : "4dM6NDYSfLcspt8GLoT5aE",
+        "name" : "Hippie Sabotage",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dM6NDYSfLcspt8GLoT5aE"
+      } ],
+      "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 258386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400257"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5JCi3pyggvk4B0yd0BK3ow"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5JCi3pyggvk4B0yd0BK3ow",
+      "id" : "5JCi3pyggvk4B0yd0BK3ow",
+      "name" : "Stay High - Habits Remix",
+      "popularity" : 79,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5a73dd039a10a6d95ea2052d5c04d3401fe22fbe",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:5JCi3pyggvk4B0yd0BK3ow"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5Z5O36p7BivXzkucc0PAfw",
+        "id" : "5Z5O36p7BivXzkucc0PAfw",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/7e9bae0ae734885351bbf0ea571610c3d6dea9d4",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/6208f8ecb93d6bd436666c42d7aea57832570518",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/1676d7633bdb51d1be5f001095ae8a2763e13cb2",
+          "width" : 64
+        } ],
+        "name" : "Queen Of The Clouds",
+        "type" : "album",
+        "uri" : "spotify:album:5Z5O36p7BivXzkucc0PAfw"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 209160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE3NM1300101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/18AJRdgUoO9EYn11N7xzaT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/18AJRdgUoO9EYn11N7xzaT",
+      "id" : "18AJRdgUoO9EYn11N7xzaT",
+      "name" : "Habits (Stay High)",
+      "popularity" : 77,
+      "preview_url" : "https://p.scdn.co/mp3-preview/070e78a3ba87a8babeffdac25c54b9a3ed03fd7a",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:18AJRdgUoO9EYn11N7xzaT"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0JJgffTDTaNEYNKUhckZOc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0JJgffTDTaNEYNKUhckZOc",
+        "id" : "0JJgffTDTaNEYNKUhckZOc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/bd7622613fdf75048c17fa3cfe1d6dd9655dcd01",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/23039f010f088188bfb5659f8ec0b0eb7cd205c7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/aa38ec99738829b32b616689a85fdc293277140a",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High) [The Chainsmokers Extended Mix]",
+        "type" : "album",
+        "uri" : "spotify:album:0JJgffTDTaNEYNKUhckZOc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 294253,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400728"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0n9iqBDje39F71sJxCzKLl"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0n9iqBDje39F71sJxCzKLl",
+      "id" : "0n9iqBDje39F71sJxCzKLl",
+      "name" : "Habits (Stay High) - The Chainsmokers Extended Mix",
+      "popularity" : 69,
+      "preview_url" : "https://p.scdn.co/mp3-preview/5401c1cfedc5da785470235c317c99c032930fe5",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0n9iqBDje39F71sJxCzKLl"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5cujj0PExm5DmaKqYRjPuy"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5cujj0PExm5DmaKqYRjPuy",
+        "id" : "5cujj0PExm5DmaKqYRjPuy",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/bd7622613fdf75048c17fa3cfe1d6dd9655dcd01",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/23039f010f088188bfb5659f8ec0b0eb7cd205c7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/aa38ec99738829b32b616689a85fdc293277140a",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High) [The Chainsmokers Radio Edit]",
+        "type" : "album",
+        "uri" : "spotify:album:5cujj0PExm5DmaKqYRjPuy"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GR", "GT", "HK", "HN", "HU", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 264920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400727"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3XksWoRLRItcWOXB2iOh32"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3XksWoRLRItcWOXB2iOh32",
+      "id" : "3XksWoRLRItcWOXB2iOh32",
+      "name" : "Habits (Stay High) - The Chainsmokers Radio Edit",
+      "popularity" : 60,
+      "preview_url" : "https://p.scdn.co/mp3-preview/295e88b6330d1d044f95bffdc149c6e3f253024d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3XksWoRLRItcWOXB2iOh32"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3PtQI5CvQTGPKdqmZevFwY"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3PtQI5CvQTGPKdqmZevFwY",
+        "id" : "3PtQI5CvQTGPKdqmZevFwY",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/e471d24038deb08eca8c2b38f5babf6c5712cec1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/8e4b820fdd567ef92427af21e3fa188930f375d3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/328a7ac1c548d21184b05ed231db7a1ddc5652a1",
+          "width" : 64
+        } ],
+        "name" : "Truth Serum",
+        "type" : "album",
+        "uri" : "spotify:album:3PtQI5CvQTGPKdqmZevFwY"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "AD", "AR", "AU", "BE", "BG", "BO", "BR", "CL", "CO", "CR", "CY", "CZ", "DK", "DO", "EC", "EE", "ES", "FI", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 252093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/45Hsbni3CutyzdVm7QO9F2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/45Hsbni3CutyzdVm7QO9F2",
+      "id" : "45Hsbni3CutyzdVm7QO9F2",
+      "name" : "Habits (Stay High) - Oliver Nelson Remix",
+      "popularity" : 56,
+      "preview_url" : "https://p.scdn.co/mp3-preview/186d24f5e0b73c4d15ea8d7307f1e23c41f2cfee",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:45Hsbni3CutyzdVm7QO9F2"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5LIv43Rly6DwNicaYqk0ja"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5LIv43Rly6DwNicaYqk0ja",
+        "id" : "5LIv43Rly6DwNicaYqk0ja",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/eaf7b1b9928b9fe67e1f0e7787344ffde05de55f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/8af70e72335aa177d2a078104d54d4e8c878cab0",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/bdb493299dc7e7f1685af6ebae27a776d401ef27",
+          "width" : 64
+        } ],
+        "name" : "Tove Lo - Habits (stay High) Acapella by Julia Westlin",
+        "type" : "album",
+        "uri" : "spotify:album:5LIv43Rly6DwNicaYqk0ja"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2HaJR92U9WIouR0v84hvzU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2HaJR92U9WIouR0v84hvzU",
+        "id" : "2HaJR92U9WIouR0v84hvzU",
+        "name" : "Julia Westlin",
+        "type" : "artist",
+        "uri" : "spotify:artist:2HaJR92U9WIouR0v84hvzU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1fkoo6jb2VwGQG2JCfw5Xs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1fkoo6jb2VwGQG2JCfw5Xs",
+        "id" : "1fkoo6jb2VwGQG2JCfw5Xs",
+        "name" : "David Meshow",
+        "type" : "artist",
+        "uri" : "spotify:artist:1fkoo6jb2VwGQG2JCfw5Xs"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "disc_number" : 1,
+      "duration_ms" : 208221,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USE830936897"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7Jfk1jo7XdaPQDvFbZph3q"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7Jfk1jo7XdaPQDvFbZph3q",
+      "id" : "7Jfk1jo7XdaPQDvFbZph3q",
+      "name" : "Habits (Stay High)",
+      "popularity" : 40,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f33879e7457e6770266bf88269bf7fed0026a6c0",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7Jfk1jo7XdaPQDvFbZph3q"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "CA", "MX" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/11goDT4Xan4nsWpiFIsf6N"
+        },
+        "href" : "https://api.spotify.com/v1/albums/11goDT4Xan4nsWpiFIsf6N",
+        "id" : "11goDT4Xan4nsWpiFIsf6N",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/b5a7e4185460cb1d2db827d9d7d65e889fb65b64",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0ccdb031644dddfe2b0511de0b7220ca3460e1b7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a7db67af9c7aeecda3decada03aa26d9b931f471",
+          "width" : 64
+        } ],
+        "name" : "Truth Serum",
+        "type" : "album",
+        "uri" : "spotify:album:11goDT4Xan4nsWpiFIsf6N"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dM6NDYSfLcspt8GLoT5aE",
+        "id" : "4dM6NDYSfLcspt8GLoT5aE",
+        "name" : "Hippie Sabotage",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dM6NDYSfLcspt8GLoT5aE"
+      } ],
+      "available_markets" : [ "CA", "MX" ],
+      "disc_number" : 1,
+      "duration_ms" : 258386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400257"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4J8WVHRtXM6SMgsF7qohXy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4J8WVHRtXM6SMgsF7qohXy",
+      "id" : "4J8WVHRtXM6SMgsF7qohXy",
+      "name" : "Stay High - Habits Remix",
+      "popularity" : 61,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ae4c46786d0f8dbf71c6ad89242c5183041af3fd",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:4J8WVHRtXM6SMgsF7qohXy"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "CA", "MX", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7pLVcHNJQpXDs68N7zKjKd"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7pLVcHNJQpXDs68N7zKjKd",
+        "id" : "7pLVcHNJQpXDs68N7zKjKd",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/209744c93bd43b0b2c220249aab9796812f9cd69",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/6b1b4e9fd7d7191cc2de83fd5d82b98552f20b85",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ad2cd4e993857a24c823614f11dc99db3eedb756",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High)",
+        "type" : "album",
+        "uri" : "spotify:album:7pLVcHNJQpXDs68N7zKjKd"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 208000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE3NM1300101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/70AoHzwXbJBdz3DZ5fSDfY"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/70AoHzwXbJBdz3DZ5fSDfY",
+      "id" : "70AoHzwXbJBdz3DZ5fSDfY",
+      "name" : "Habits (Stay High)",
+      "popularity" : 73,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9f8ea677e57b08bcddc02bb7698d78e2ceb31caf",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:70AoHzwXbJBdz3DZ5fSDfY"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "available_markets" : [ "CA", "MX", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1teQxZPWNILIowWpQA6qfm",
+        "id" : "1teQxZPWNILIowWpQA6qfm",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/2f92812b3d81fa8e4987b77c17ca5441f77d4b6f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/41a7d97751fe7190148e5066588b3ada0045344d",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/dbd90d79f122e27c31a3ecc4d743851d4166207a",
+          "width" : 64
+        } ],
+        "name" : "Queen Of The Clouds",
+        "type" : "album",
+        "uri" : "spotify:album:1teQxZPWNILIowWpQA6qfm"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 209160,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE3NM1300101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4dL1HwRWQgWK9timX9PLex"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4dL1HwRWQgWK9timX9PLex",
+      "id" : "4dL1HwRWQgWK9timX9PLex",
+      "name" : "Habits (Stay High)",
+      "popularity" : 77,
+      "preview_url" : "https://p.scdn.co/mp3-preview/59bbdbd087434c70f2ce6028e4ada2e8afef9667",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:4dL1HwRWQgWK9timX9PLex"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AT", "FR", "GB", "IE" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1wqUTW08fW7Idb0QmbK2E1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1wqUTW08fW7Idb0QmbK2E1",
+        "id" : "1wqUTW08fW7Idb0QmbK2E1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/e471d24038deb08eca8c2b38f5babf6c5712cec1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/8e4b820fdd567ef92427af21e3fa188930f375d3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/328a7ac1c548d21184b05ed231db7a1ddc5652a1",
+          "width" : 64
+        } ],
+        "name" : "Truth Serum",
+        "type" : "album",
+        "uri" : "spotify:album:1wqUTW08fW7Idb0QmbK2E1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4dM6NDYSfLcspt8GLoT5aE",
+        "id" : "4dM6NDYSfLcspt8GLoT5aE",
+        "name" : "Hippie Sabotage",
+        "type" : "artist",
+        "uri" : "spotify:artist:4dM6NDYSfLcspt8GLoT5aE"
+      } ],
+      "available_markets" : [ "AT", "FR", "GB", "IE" ],
+      "disc_number" : 1,
+      "duration_ms" : 258386,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400257"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3bNxaDD8VTJTZvHQPuXSWQ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3bNxaDD8VTJTZvHQPuXSWQ",
+      "id" : "3bNxaDD8VTJTZvHQPuXSWQ",
+      "name" : "Stay High - Habits Remix",
+      "popularity" : 69,
+      "preview_url" : "https://p.scdn.co/mp3-preview/565370d531ad1330005f4a842e821529e93c82a0",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:3bNxaDD8VTJTZvHQPuXSWQ"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AT", "CH", "DE", "FR" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2cZ6MmYfeoHLtmlX1cWdaS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2cZ6MmYfeoHLtmlX1cWdaS",
+        "id" : "2cZ6MmYfeoHLtmlX1cWdaS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/3708c937f5b92503abe2d4ffe7e876ed38c821ac",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/66e0c564a699de310aff0ebb0934a3a1b92b6a32",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/4042c0ad8c555786cbaf78e1c0d4e8b4cb3ca3a1",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High) [Oliver Nelson Remix]",
+        "type" : "album",
+        "uri" : "spotify:album:2cZ6MmYfeoHLtmlX1cWdaS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "AT", "CH", "DE", "FR" ],
+      "disc_number" : 1,
+      "duration_ms" : 252093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7HoX5tT9woialYpPjrmm5A"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7HoX5tT9woialYpPjrmm5A",
+      "id" : "7HoX5tT9woialYpPjrmm5A",
+      "name" : "Habits (Stay High) - Oliver Nelson Remix",
+      "popularity" : 48,
+      "preview_url" : "https://p.scdn.co/mp3-preview/53cff8ff67bd2943e4d566e969c6b6e9da0d4864",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7HoX5tT9woialYpPjrmm5A"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "CA", "MX", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0chcfmxKrV9x4Uv49CDWmS"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0chcfmxKrV9x4Uv49CDWmS",
+        "id" : "0chcfmxKrV9x4Uv49CDWmS",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/64b952f5b02d1c8e4d6d8d7d97d463873d556b8d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/af214e229d68484a130f5f5cc72d3a9070bf5339",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/c7ef6b3479043929b7ff188c5a016776b76fdf00",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High) [The Chainsmokers Extended Mix]",
+        "type" : "album",
+        "uri" : "spotify:album:0chcfmxKrV9x4Uv49CDWmS"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 294253,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400728"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7lxKUx67JrEoxjayHCb0Xr"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7lxKUx67JrEoxjayHCb0Xr",
+      "id" : "7lxKUx67JrEoxjayHCb0Xr",
+      "name" : "Habits (Stay High) - The Chainsmokers Extended Mix",
+      "popularity" : 66,
+      "preview_url" : "https://p.scdn.co/mp3-preview/db873f3ce4f4895003762803328122cc0ba731c6",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:7lxKUx67JrEoxjayHCb0Xr"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AT", "ES" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5lnWw7WHhpyAiOnfPYBnkJ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5lnWw7WHhpyAiOnfPYBnkJ",
+        "id" : "5lnWw7WHhpyAiOnfPYBnkJ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/4773b42e42eaa7f2f55c777014dc78d4f8a5b91b",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/434673b8ec74544b6d5c4624cfc93fa527e4b6cb",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/312674260ed3aaedbafbf69de37e020d9b3b5c21",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High)",
+        "type" : "album",
+        "uri" : "spotify:album:5lnWw7WHhpyAiOnfPYBnkJ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "AT", "ES" ],
+      "disc_number" : 1,
+      "duration_ms" : 208000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE3NM1300101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1KYzBXiEVwOnnhQnPDiVNo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1KYzBXiEVwOnnhQnPDiVNo",
+      "id" : "1KYzBXiEVwOnnhQnPDiVNo",
+      "name" : "Habits (Stay High)",
+      "popularity" : 32,
+      "preview_url" : "https://p.scdn.co/mp3-preview/c6763658532c456ee8cdfb3e6269d1544989f76d",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1KYzBXiEVwOnnhQnPDiVNo"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AT", "DE" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/72MqFZe7JVA1D6pOe1VhEK"
+        },
+        "href" : "https://api.spotify.com/v1/albums/72MqFZe7JVA1D6pOe1VhEK",
+        "id" : "72MqFZe7JVA1D6pOe1VhEK",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/55c3a2356adb169aa44309b532e91c0943e94e7d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/7ee62d57a4c61f319f0db6fa900103db3364fbbd",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/430f86e84f45c326056f026650779648cfb59449",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High)",
+        "type" : "album",
+        "uri" : "spotify:album:72MqFZe7JVA1D6pOe1VhEK"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "AT", "DE" ],
+      "disc_number" : 1,
+      "duration_ms" : 209226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE3NM1300101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6ZGZrSj8XmkYoKOMKhS6co"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6ZGZrSj8XmkYoKOMKhS6co",
+      "id" : "6ZGZrSj8XmkYoKOMKhS6co",
+      "name" : "Habits (Stay High)",
+      "popularity" : 61,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9a7a5db35e5fed77d1646887b2217c6f958a2641",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6ZGZrSj8XmkYoKOMKhS6co"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "AT", "FR", "GB", "IE" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/1wqUTW08fW7Idb0QmbK2E1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/1wqUTW08fW7Idb0QmbK2E1",
+        "id" : "1wqUTW08fW7Idb0QmbK2E1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/e471d24038deb08eca8c2b38f5babf6c5712cec1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/8e4b820fdd567ef92427af21e3fa188930f375d3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/328a7ac1c548d21184b05ed231db7a1ddc5652a1",
+          "width" : 64
+        } ],
+        "name" : "Truth Serum",
+        "type" : "album",
+        "uri" : "spotify:album:1wqUTW08fW7Idb0QmbK2E1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "AT", "FR", "GB", "IE" ],
+      "disc_number" : 1,
+      "duration_ms" : 209226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE3NM1300101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6c6OMbNVGHxGZWGc9ubHwq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6c6OMbNVGHxGZWGc9ubHwq",
+      "id" : "6c6OMbNVGHxGZWGc9ubHwq",
+      "name" : "Habits (Stay High)",
+      "popularity" : 62,
+      "preview_url" : "https://p.scdn.co/mp3-preview/050ead544a1774a143aa8c755f67a4aa85c359c9",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6c6OMbNVGHxGZWGc9ubHwq"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "CA", "MX", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/2ZBwVx1HYfyIOIxEEeC34q"
+        },
+        "href" : "https://api.spotify.com/v1/albums/2ZBwVx1HYfyIOIxEEeC34q",
+        "id" : "2ZBwVx1HYfyIOIxEEeC34q",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/f542cfaba22375590a00eaa48f8b74b1d814b8f9",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/d8a0ea040259cdfc1d846de5b4c655e541dd5e9a",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/8b7b1239341289665f576f4433d29ad8de0b0352",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High) [FIXYN Remix]",
+        "type" : "album",
+        "uri" : "spotify:album:2ZBwVx1HYfyIOIxEEeC34q"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 216545,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71402196"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3Yyj66Gqk8Psabau1CMoP8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3Yyj66Gqk8Psabau1CMoP8",
+      "id" : "3Yyj66Gqk8Psabau1CMoP8",
+      "name" : "Habits (Stay High) - FIXYN Remix",
+      "popularity" : 47,
+      "preview_url" : "https://p.scdn.co/mp3-preview/50fd64563de14215162dbb8c82e97919a51309ad",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3Yyj66Gqk8Psabau1CMoP8"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "CA", "MX", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6xEVy6m4Rf0rGEGLu44MRH"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6xEVy6m4Rf0rGEGLu44MRH",
+        "id" : "6xEVy6m4Rf0rGEGLu44MRH",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/c1500a7c3f22c35a8f3848d8f8d92f2f0fa44359",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/393553a7dd317b81efc06e13c1ce0d7770e693c1",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/d433e7bc86ccc6f670f8d4dd5316411ad5d345fe",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High) [Oliver Nelson Remix]",
+        "type" : "album",
+        "uri" : "spotify:album:6xEVy6m4Rf0rGEGLu44MRH"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 252093,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400750"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1YEw6iUZurigCZgtg91VKu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1YEw6iUZurigCZgtg91VKu",
+      "id" : "1YEw6iUZurigCZgtg91VKu",
+      "name" : "Habits (Stay High) - Oliver Nelson Remix",
+      "popularity" : 54,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f685087d02738ab26fdc8299f964ecb366cdf343",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:1YEw6iUZurigCZgtg91VKu"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "CA", "MX", "US" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5IqxiIfO0zV4ePwnE3niNQ"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5IqxiIfO0zV4ePwnE3niNQ",
+        "id" : "5IqxiIfO0zV4ePwnE3niNQ",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/64b952f5b02d1c8e4d6d8d7d97d463873d556b8d",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/af214e229d68484a130f5f5cc72d3a9070bf5339",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/c7ef6b3479043929b7ff188c5a016776b76fdf00",
+          "width" : 64
+        } ],
+        "name" : "Habits (Stay High) [The Chainsmokers Radio Edit]",
+        "type" : "album",
+        "uri" : "spotify:album:5IqxiIfO0zV4ePwnE3niNQ"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "disc_number" : 1,
+      "duration_ms" : 264920,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SEUM71400727"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2D20D6gxMn8iJV4ij30DIV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2D20D6gxMn8iJV4ij30DIV",
+      "id" : "2D20D6gxMn8iJV4ij30DIV",
+      "name" : "Habits (Stay High) - The Chainsmokers Radio Edit",
+      "popularity" : 54,
+      "preview_url" : "https://p.scdn.co/mp3-preview/65500a1054d6ac958efd46683a3a2389ac273bdd",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2D20D6gxMn8iJV4ij30DIV"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "CA", "MX" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/11goDT4Xan4nsWpiFIsf6N"
+        },
+        "href" : "https://api.spotify.com/v1/albums/11goDT4Xan4nsWpiFIsf6N",
+        "id" : "11goDT4Xan4nsWpiFIsf6N",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/b5a7e4185460cb1d2db827d9d7d65e889fb65b64",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/0ccdb031644dddfe2b0511de0b7220ca3460e1b7",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a7db67af9c7aeecda3decada03aa26d9b931f471",
+          "width" : 64
+        } ],
+        "name" : "Truth Serum",
+        "type" : "album",
+        "uri" : "spotify:album:11goDT4Xan4nsWpiFIsf6N"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "CA", "MX" ],
+      "disc_number" : 1,
+      "duration_ms" : 209226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE3NM1300101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/73DdlUXPj6SIOJQRrqgjld"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/73DdlUXPj6SIOJQRrqgjld",
+      "id" : "73DdlUXPj6SIOJQRrqgjld",
+      "name" : "Habits (Stay High)",
+      "popularity" : 39,
+      "preview_url" : "https://p.scdn.co/mp3-preview/9d56a2c5b1e9ade72229aba6cc5015228d86b988",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:73DdlUXPj6SIOJQRrqgjld"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "available_markets" : [ "GB", "IE" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/7IncIF3eQS9iu8IXZm1EIh"
+        },
+        "href" : "https://api.spotify.com/v1/albums/7IncIF3eQS9iu8IXZm1EIh",
+        "id" : "7IncIF3eQS9iu8IXZm1EIh",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/e471d24038deb08eca8c2b38f5babf6c5712cec1",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/8e4b820fdd567ef92427af21e3fa188930f375d3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/328a7ac1c548d21184b05ed231db7a1ddc5652a1",
+          "width" : 64
+        } ],
+        "name" : "Truth Serum",
+        "type" : "album",
+        "uri" : "spotify:album:7IncIF3eQS9iu8IXZm1EIh"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK",
+        "id" : "4NHQUGzhtTLFvgF5SZesLK",
+        "name" : "Tove Lo",
+        "type" : "artist",
+        "uri" : "spotify:artist:4NHQUGzhtTLFvgF5SZesLK"
+      } ],
+      "available_markets" : [ "GB", "IE" ],
+      "disc_number" : 1,
+      "duration_ms" : 209226,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "SE3NM1300101"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6NffaLo49lZwIAuhBmnpyg"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6NffaLo49lZwIAuhBmnpyg",
+      "id" : "6NffaLo49lZwIAuhBmnpyg",
+      "name" : "Habits (Stay High)",
+      "popularity" : 37,
+      "preview_url" : "https://p.scdn.co/mp3-preview/050ead544a1774a143aa8c755f67a4aa85c359c9",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:6NffaLo49lZwIAuhBmnpyg"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Tove+Lo+-+Habits+%28Stay+High%29&offset=20&limit=20&type=track",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 132
+  }
+}

@@ -18,9 +18,12 @@
     "url": "https://github.com/clementlamoureux/gpm-to-spotify.git"
   },
   "dependencies": {
+    "chalk": "latest",
     "crypto-js": ">= 3.1",
-    "node-uuid": "~1.4.1",
+    "express": "^4.12.3",
     "lodash": "latest",
-    "chalk": "latest"
+    "node-uuid": "~1.4.1",
+    "request": "^2.55.0",
+    "spotify-web-api-node": "^2.0.1"
   }
 }
